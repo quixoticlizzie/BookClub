@@ -29,4 +29,4 @@ My 'journey' fighting with the hero section led to a better understanding of how
 [Future Improvements]
 While trying to brute force the code for my hero section, my research yielded better approaches that would have made it more responsive from the start. The perfectionist in me would like to scrap the work I've done and start the hero section over. However, being realistic, it would be more productive for me to begin the next module of my course so I do not feel I need to rush through its content. If I find myself with spare time in the future, I can revisit this section.
 
-I would also like to look at the nav bar because at certain sizes, the appearance could use some work. Again, this falls under the category of nice to have, but let's just move on.# BookClub
+I would also like to look at the nav bar because at certain sizes, the appearance could use some work. Again, this falls under the category of nice to have, but let's just move on.
