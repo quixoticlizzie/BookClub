@@ -1,4 +1,4 @@
-# Café Quaintsville Book and Brew Club
+# Café Quaintsville Book and Brew Club - Module 9 Responsive Club Website
 
 ## Description
 
